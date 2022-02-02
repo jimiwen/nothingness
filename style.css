@@ -1,0 +1,6 @@
+body {
+  background-color: Black;
+
+  /* leave it to hide the scrollbars */
+  overflow: hidden;
+}
